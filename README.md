@@ -1,6 +1,6 @@
 # MovieRecommender
 
-#The movies.csv dataset contains three columns:
+The movies.csv dataset contains three columns:
 
 movieId: the ID of the movie
 
@@ -9,7 +9,7 @@ title: movies title
 genres: movies genres
 
 
-#The ratings.csv dataset contains four columns:
+The ratings.csv dataset contains four columns:
 
 userId: the ID of the user who rated the movie.
 
